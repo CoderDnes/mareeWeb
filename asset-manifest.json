@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mareeWeb/static/css/main.dbe64193.chunk.css",
+    "main.js": "/mareeWeb/static/js/main.2866e45c.chunk.js",
+    "main.js.map": "/mareeWeb/static/js/main.2866e45c.chunk.js.map",
+    "runtime-main.js": "/mareeWeb/static/js/runtime-main.958abf8c.js",
+    "runtime-main.js.map": "/mareeWeb/static/js/runtime-main.958abf8c.js.map",
+    "static/css/2.69121389.chunk.css": "/mareeWeb/static/css/2.69121389.chunk.css",
+    "static/js/2.d716c00a.chunk.js": "/mareeWeb/static/js/2.d716c00a.chunk.js",
+    "static/js/2.d716c00a.chunk.js.map": "/mareeWeb/static/js/2.d716c00a.chunk.js.map",
+    "index.html": "/mareeWeb/index.html",
+    "precache-manifest.eb5f8ec0816b046359801d49a2492155.js": "/mareeWeb/precache-manifest.eb5f8ec0816b046359801d49a2492155.js",
+    "service-worker.js": "/mareeWeb/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/mareeWeb/static/css/2.69121389.chunk.css.map",
+    "static/css/main.dbe64193.chunk.css.map": "/mareeWeb/static/css/main.dbe64193.chunk.css.map",
+    "static/js/2.d716c00a.chunk.js.LICENSE.txt": "/mareeWeb/static/js/2.d716c00a.chunk.js.LICENSE.txt",
+    "static/media/hamburger.svg": "/mareeWeb/static/media/hamburger.a6749496.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958abf8c.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.d716c00a.chunk.js",
+    "static/css/main.dbe64193.chunk.css",
+    "static/js/main.2866e45c.chunk.js"
+  ]
+}
