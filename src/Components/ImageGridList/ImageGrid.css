@@ -1,0 +1,46 @@
+.col{
+    height: 20rem;
+}
+/* .col:hover{
+    display: block;
+     position: absolute;
+    height: 5rem;
+    top: 40%;
+    left: 0;
+    background-color: white;
+    width: 60%;
+
+} */
+
+.image-info{
+   
+    display: none;
+    position: absolute;
+   height: 5rem;
+   top: 40%;
+   left: 0;
+   background-color: white;
+   width: 60%;
+   transition: 0.5s ease-in;
+}
+.container-fluid{
+    margin-top: 3rem;
+}
+
+
+   
+.title{
+    font-weight: 500;
+    padding: 6px;
+    font-size: 22px;
+}
+.keywords{
+    font-style: italic;
+    padding-left: 8px;
+    font-weight: 600;
+
+}
+.col:hover .image-info{
+    
+    display: block;
+}

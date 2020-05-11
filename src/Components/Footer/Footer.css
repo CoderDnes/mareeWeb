@@ -1,0 +1,10 @@
+.footer{
+    position: absolute;
+    top: 30%;
+   left: 20%;
+    
+}
+.footer li{
+    text-decoration: none;
+    list-style: none;
+}
